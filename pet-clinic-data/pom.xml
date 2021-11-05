@@ -17,7 +17,6 @@
         <dependency>
             <groupId>com.h2database</groupId>
             <artifactId>h2</artifactId>
-            <scope>runtime</scope>
         </dependency>
         <dependency>
             <groupId>mysql</groupId>
@@ -59,4 +58,8 @@
             </plugin>
         </plugins>
     </build>
+
+  <scm>
+    <tag>pet-clinic-data-0.0.3</tag>
+  </scm>
 </project>
