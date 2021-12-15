@@ -8,12 +8,6 @@ import java.util.Set;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-/**
- * JUnit5 test.
- *
- * @author <a href="mailto:k.czechowski83@gmail.com">Krzysztof Czechowski</a>
- */
-
 class PetMapServiceTest {
 
     private PetMapService petMapService;
